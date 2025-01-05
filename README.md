@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Cloud Services**
 
-- 💬 Ask me about **MEARN and Web Development**
+- 💬 Ask me about **MERN and Web Development**
 
 - 📫 How to reach me **amansinghmail07@gmail.com**
 - 📫 Check my portfolio **https://portfolio-ashy-theta-35.vercel.app/**
